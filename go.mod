@@ -1,4 +1,4 @@
-module github.com/h/utils
+module github.com/MoyunRz/h
 
 go 1.17
 
